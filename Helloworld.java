@@ -4,4 +4,5 @@ public class Helloworld{
        System.err.println("Hello, world"); 
     }
 }
-// to enable this  javac --enable-preview --release 21 rotates.java  on complier
+// to enable this  javac --enable-preview --release 21 Helloworld.java  on complier
+//java --enable-preview Hellowrold
